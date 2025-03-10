@@ -1,9 +1,43 @@
-<h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
-<h3 align="center">A passionate software engineer from India</h3>
+# Hi there, I'm Vishal Kumar! 👋  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+🚀 **Mechanical Engineer | AI Enthusiast | Full-Stack Developer**  
+🎯 **Competitive Programmer | Game & Web Developer**  
+🎮 **Codeforces: [sting_like_a_bee](https://codeforces.com/profile/sting_like_a_bee) | LeetCode: [vishal_kumar3](https://leetcode.com/vishal_kumar3/)**  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+## 🔥 About Me  
+- 🎓 **Dual Degree (B.Tech + M.Tech) (Mechanical Engineering)** at **IIT Kharagpur**  
+- 🧠 **Micro Specialization in AI & Applications**  
+- 💻 Passionate about ** Web Development, and Competitive Programming**  
+- 🎯 Ranked **1st in CodeChef Starter 94** & **Knight badge on LeetCode**  
+- 🤖 Working on **EEG-based BCI for Robotics (ROS + Deep Learning)**  
+
+---
+
+## 🛠️ Tech Stack  
+💡 **Languages:** Python | C++ | JavaScript | TypeScript  
+🚀 **Frontend:** React.js | Next.js | Tailwind CSS  
+🖥️ **Backend:** Node.js | Express.js | Firebase | MongoDB | MySQL  
+🔧 **Tools & Others:** Git | GitHub | MATLAB | NumPy | Pandas  
+🎯 **CS Topics:** Machine Learning | Data Structures & Algorithms | AI and ML Foundations  
+
+---
+
+## 🌟 Featured Projects  
+- **[Multiplayer Chess Game](https://github.com)** – Real-time chess game with WebSockets  
+- **[Paper Trading Platform](https://github.com)** – Stock trading simulation with Yahoo Finance API  
+- **[Online Compiler](https://github.com)** – Real-time collaborative coding platform  
+
+---
+
+## 📈 GitHub Stats  
+![cmd-play's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cmd-play&show_icons=true&theme=radical)  
+
+✉️ **Let's Connect!**  
+📫 **Email:** vishal.kumar@example.com  
+💼 **LinkedIn:** [linkedin.com/in/vishal-kumar](https://linkedin.com/in/vishal-kumar)  
+
+---
+
+_"Code. Play. Repeat."_ 🎮🔥  
